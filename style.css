@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 900px;
+    margin: 0 auto;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+}
+.navigation{
+    display: flex;
+    padding: 10px;
+}
+.navigationCorp{
+    margin-left: auto;
+    max-width: 200px;
+    text-align: right;
+}
+.page{
+    width: 900px;
+    margin: 0 auto;
+}
+.hero{
+    text-align: center;
+    border: 1px solid rgb(165, 159, 159);
+}
+.hero p {
+    padding: 15px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.containerDiscont{
+    display: flex;
+    padding: 15px;
+    border: 1px solid rgb(165, 159, 159);
+}
+.discontImg{
+    margin: auto 0;
+    margin-left: auto;
+    margin-right: 15px;
+    border: 1px solid rgb(167, 160, 160);
+    border-radius: 50%;
+    background-color: rgb(241, 240, 240);
+    padding: 50px;
+}
+.procentLogo{
+    width: 70px;
+    height: 70px;
+}
+.containerRaiting{
+    display: flex;
+    padding: 15px;
+    border: 1px solid rgb(165, 159, 159);
+}
+.raitingImg{
+    margin: auto 0;
+    margin-right: auto;
+    margin-left: 15px;
+    border: 1px solid rgb(190, 188, 188);
+    border-radius: 50%;
+    background-color: rgb(241, 240, 240);
+    padding: 50px;
+}
+.raitingLogo{
+    width: 70px;
+    height: 70px;
+}
